@@ -2,7 +2,9 @@
 coming soon...
 
 # Functions
-coming soon...
+- [ ] authentication
+- [ ] tweet
+- [ ] chat
 
 # Usage
 coming soon...
