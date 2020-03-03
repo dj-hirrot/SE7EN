@@ -8,3 +8,6 @@ coming soon...
 
 # Usage
 coming soon...
+
+# Memo
+- build schedule
